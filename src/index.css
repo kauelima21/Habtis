@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply px-3 py-2 text-base text-white bg-neutral-800 rounded outline-0 border-0 font-medium;
+}
